@@ -14,6 +14,7 @@ Pre-collect the output of Missing/Duplicates from: https://ergcube.com/blitz.htm
 
 ### How to install and run the container:
 ```
+  git clone https://github.com/n1ur0/blitz-trader-tool.git
   docker build -t blitz-trader .  
   docker run -p 8501:8501 blitz-trader
 ```
