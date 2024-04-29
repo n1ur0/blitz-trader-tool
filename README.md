@@ -9,6 +9,7 @@ Install docker
   https://www.docker.com/products/docker-desktop/
 
 Pre-collect the output of Missing/Duplicates from: https://ergcube.com/blitz.html (Special thanks to **hq3r**!)
+
 ![image](https://github.com/n1ur0/blitz-trader-tool/assets/16278543/6b29c68f-ede4-449d-a820-5067b537063a)
 
 ### How to install and run the container:
